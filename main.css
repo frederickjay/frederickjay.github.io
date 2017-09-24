@@ -182,6 +182,11 @@ hr {
   margin: 100px 0 !important;
 }
 
+.list-group-item-dark {
+  background-color: #2bb673;
+  color: #fff;
+}
+
 
 /* Font Styles */
 
